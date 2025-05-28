@@ -1,2 +1,2 @@
 # Breast-Cancer-Prediction-Model
-Breast Cancer Prediction Project
+This model is used for Breast Cancer Prediction using different machine learning models.
